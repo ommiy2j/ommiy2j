@@ -1,5 +1,5 @@
 ## Hi there, my name is < Omprakash /> <img src="https://github.com/ommiy2j/ommiy2j/blob/main/images/hi.gif" width="28px" alt="waving hand" />
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ommiy2j&label=MyProfileViews&color=blue&style=plastic%22%20" /> </p>
 <br />
 I'm a front-end React developer who loves creative coding! 👩🏼‍💻
 <br />
