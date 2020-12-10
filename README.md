@@ -31,7 +31,9 @@ I'm a front-end React developer who loves creative coding! and I am committed to
 
 ## 📊 Stats
 ![Om's github stats](https://github-readme-stats.vercel.app/api?username=ommiy2j&show_icons=true&theme=radical) 
-<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regchiu&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
+
 ![Followers](https://img.shields.io/github/followers/ommiy2j?style=flat-square&color=d680ff&labelColor=80b1ff)
 
 <table>
