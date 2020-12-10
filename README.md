@@ -14,7 +14,6 @@ I'm a front-end React developer who loves creative coding! 👩🏼‍💻
 ![JSON](https://img.shields.io/badge/-JSON-%23000000?style=flat-square&logo=json)
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=%23ffffff) 
 ![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=redux) 
-<br />
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint) 
 ![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=%23ffffff) 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) 
