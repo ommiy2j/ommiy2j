@@ -1,9 +1,11 @@
 ## Hi there, my name is < Omprakash /> <img src="https://github.com/ommiy2j/ommiy2j/blob/main/images/hi.gif" width="28px" alt="waving hand" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ommiy2j&label=MyProfileViews&color=blue&style=plastic%22%20" /> </p>
 <br />
-I'm a front-end React developer who loves creative coding! 👩🏼‍💻
+I'm a front-end React developer who loves creative coding! and I am committed to developing websites or applications with beautiful interfaces and a good user experience. 👩🏼‍💻
 <br />
 
+🌱 I'm currently learning:
+&ensp;![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)
 
 
 ## 💻 Tech Stack
