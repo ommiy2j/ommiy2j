@@ -1,6 +1,4 @@
 ## Hi there, my name is < Omprakash /> <img src="https://github.com/ommiy2j/ommiy2j/blob/main/images/hi.gif" width="28px" alt="waving hand" />
-<br/>
-![](https://komarev.com/ghpvc/?username=ommiy2j&label=PROFILE+VIEWS)
 I'm a front-end React developer who loves creative coding! 👩🏼‍💻
 <br />
 
