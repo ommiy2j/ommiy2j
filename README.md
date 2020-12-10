@@ -3,9 +3,10 @@
 <br />
 I'm a front-end React developer who loves creative coding! and I am committed to developing websites or applications with beautiful interfaces and a good user experience. 👩🏼‍💻
 <br />
-
+<br />
 🌱 I'm currently learning:
-&ensp;![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)
+
+  &ensp;![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)
 
 
 ## 💻 Tech Stack
