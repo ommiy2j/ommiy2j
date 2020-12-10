@@ -1,46 +1,41 @@
 ## Hi there, my name is < Omprakash /> <img src="https://github.com/ommiy2j/ommiy2j/blob/main/images/hi.gif" width="28px" alt="waving hand" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ommiy2j&label=MyProfileViews&color=blue&style=plastic%22%20" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ommiy2j&label=views&color=blue&style=plastic%22%20" /> </p>
+
+* I'm a front-end React developer who loves creative coding! and I am committed to developing websites or applications with beautiful interfaces and a good user experience.‍💻
+* I am a 3rd year undergraduate under the department of Electrical & Electronics Engineering in IEM, Kolkata.
 <br />
-I'm a front-end React developer who loves creative coding! and I am committed to developing websites or applications with beautiful interfaces and a good user experience. 👩🏼‍💻
-<br />
-<br />
-🌱 I'm currently learning:
 
-  &ensp;![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)
+***
+🔭 I’m currently working on developing my react skills.
 
+-  🌱 I'm simultaneously trying to enhance my competitive coding skills
 
-## 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=%23ffffff) 
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) 
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=%23ffffff) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=%23ffffff) 
-![JSON](https://img.shields.io/badge/-JSON-%23000000?style=flat-square&logo=json)
-![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=%23ffffff) 
-![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=redux) 
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint) 
-![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=%23ffffff) 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) 
-![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github)
-![NPM](https://img.shields.io/badge/-NPM-%23CB3837?style=flat-square&logo=npm) 
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+-  👯 I’m looking to collaborate on projects for my **Country India**.
+
+-  💬 Ask me about React, Bootstrap, Java, Javascript, Python, OOPS and Data Structures.
+
+-  😄 Pronouns: He/His
+
+-  📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/-Omprakash-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omprakash-kumar-0237161b0/)
+[![Twitter](https://img.shields.io/badge/__Om__-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Ompraka55399766)
+[![Instagram](https://img.shields.io/badge/__om.prakash__-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/__om.prakash__/)
+[![Gmail](https://img.shields.io/badge/-Omprakash-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:ommiy2j@gmail.com)
 
 
-
-## 💌 Connect with me
-
-
-## 📊 Stats
+***
+### 📊 Stats
 ![Om's github stats](https://github-readme-stats.vercel.app/api?username=ommiy2j&show_icons=true&theme=radical) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regchiu&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ommiy2j&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
 
 ![Followers](https://img.shields.io/github/followers/ommiy2j?style=flat-square&color=d680ff&labelColor=80b1ff)
+
+
 
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/KaylaKremer/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/ommiy2j/count.svg" alt="" /></td>
   </tr>
 </table>
-
-
