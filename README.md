@@ -39,8 +39,6 @@ I'm a front-end React developer who loves creative coding! 👩🏼‍💻
 ![Om's github stats](https://github-readme-stats.vercel.app/api?username=ommiy2j&show_icons=true&theme=radical) 
 <br />
 ![Followers](https://img.shields.io/github/followers/ommiy2j?style=flat-square&color=d680ff&labelColor=80b1ff)
-![Commit Activity](https://img.shields.io/github/commit-activity/w/ommiy2j/ommiy2j.github.io?style=flat-square&color=d680ff&labelColor=80b1ff)
-![Last Commit](https://img.shields.io/github/last-commit/ommiy2j/ommiy2j.github.io?style=flat-square&color=d680ff&labelColor=80b1ff)
 
 <table>
   <tr>
