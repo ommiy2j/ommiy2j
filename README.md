@@ -49,7 +49,7 @@
 ### 📊 Stats
 ![Om's github stats](https://github-readme-stats.vercel.app/api?username=ommiy2j&show_icons=true&theme=radical) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ommiy2j&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ommiy2j&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
 
 
 
